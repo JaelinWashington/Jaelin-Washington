@@ -1,3 +1,5 @@
+## Grant Process and Reflection Blog
+
 # **A Good Man is Hard to Find**
 
 For my project I plan to create a visual/ interactive mapping project for the short story “A Good Man is Hard to Find” by Flannery O’Connor. I had to read the story for a course that I took over the summer, and it was then that I realized the complexity of it. I expected my other professors to teach the story over time, but when that did not happen, I thought that using it for this project would be a nice way to show, even to a few people, how great this story is.
